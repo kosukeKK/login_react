@@ -1,0 +1,16 @@
+current directory: /Users/kT/sample/ghq/github.com/kosukeKK/login_react/vendor/bundle/gems/binding_of_caller-0.7.3/ext/binding_of_caller
+/Users/kT/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20171222-30033-10s2n7y.rb extconf.rb
+
+current directory: /Users/kT/sample/ghq/github.com/kosukeKK/login_react/vendor/bundle/gems/binding_of_caller-0.7.3/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/kT/sample/ghq/github.com/kosukeKK/login_react/vendor/bundle/gems/binding_of_caller-0.7.3/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/kT/sample/ghq/github.com/kosukeKK/login_react/vendor/bundle/gems/binding_of_caller-0.7.3/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
