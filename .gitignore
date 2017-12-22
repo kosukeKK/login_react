@@ -17,7 +17,7 @@
 /yarn-error.log
 
 .byebug_history
-./idea/*
+.idea/*
 /public/packs
 /public/packs-test
 /node_modules
