@@ -56,7 +56,6 @@ export const sessionApi = {
 
 export const registrationApi = {
     signUp: ({email, password, password_confirmation, name}) => {
-        console.log(name, 'これだよね');
         return (axios.post('/users', {
                 user: {
                     name: name,
